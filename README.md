@@ -108,4 +108,3 @@ print(generated_sentence)
 - Experiment with different model architectures (e.g., GRUs, Transformers).
 - Explore larger and more diverse datasets for richer text generation.
 - Implement temperature sampling for more varied and creative outputs.
-- Develop a user interface for interactive text generation.
